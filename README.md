@@ -1,5 +1,3 @@
-# SMS-Spam-Classification-Using-NLP
-The Spam-Ham Classification project is a Natural Language Processing (NLP) model designed to classify text messages as either Spam (unwanted messages) or Ham (legitimate messages). This project leverages machine learning and text preprocessing techniques to build an efficient spam detection system.
 
 # 📩 Spam-Ham Classification using NLP  
 
